@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">36ff7fe3ae7b69b2e40cde530c178490</canvas>
+        <component display_value="Filter">226449101138d0dff1abe0e1566c8b2a</component>
+        <component_props>{"filterId":"1jf7sqmdeu8108e4olok","filterName":"Label","filterComponentType":"singleselect","defaultSelectedItems":[],"defaultSelectedDateRange":{"range":""},"dateFilterView":"calendar-reldates","sort":"ASC","filterElementType":"pill","isShowSelectedValueInPill":true,"filterElementLayout":"vertical","enableClearFilter":true,"primaryActionLabel":"Apply","maxElements":500,"filterConfigurations":"@state.parFilters","cascadeScope":"c1c396eb0cb039694d92f6edd47af902","isDashboard":true,"isGroup":false,"value":[]}</component_props>
+        <h>4</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-18 06:31:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>307bb801c36a7610c5bedaec0501310d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_widget_307bb801c36a7610c5bedaec0501310d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-18 06:31:47</sys_updated_on>
+        <visualization/>
+        <w>7</w>
+        <widget_props/>
+        <x>0</x>
+        <y>41</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4b51414c3b3342d4a36804e0b5e45a90</instance_id>
+        <instance_name>dev282179</instance_name>
+        <name>par_dashboard_widget_307bb801c36a7610c5bedaec0501310d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">36ff7fe3ae7b69b2e40cde530c178490</canvas><component display_value="Filter">226449101138d0dff1abe0e1566c8b2a</component><component_props>{"filterId":"1jf7sqmdeu8108e4olok","filterName":"Label","filterComponentType":"singleselect","defaultSelectedItems":[],"defaultSelectedDateRange":{"range":""},"dateFilterView":"calendar-reldates","sort":"ASC","filterElementType":"pill","isShowSelectedValueInPill":true,"filterElementLayout":"vertical","enableClearFilter":true,"primaryActionLabel":"Apply","maxElements":500,"filterConfigurations":"@state.parFilters","cascadeScope":"c1c396eb0cb039694d92f6edd47af902","isDashboard":true,"isGroup":false,"value":[]}</component_props><h>4</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-01-18 06:31:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>307bb801c36a7610c5bedaec0501310d</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>par_dashboard_widget_307bb801c36a7610c5bedaec0501310d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-01-18 06:31:47</sys_updated_on><visualization/><w>7</w><widget_props/><x>0</x><y>41</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1140128356</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>dc0f9b92c39e7210c5bedaec050131bf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-18 06:31:47</sys_created_on>
+        <sys_id>3c7bb801c36a7610c5bedaec05013110</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19bcfcd76550000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-18 06:31:47</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>f87bb8019a6a76109314d2245676d30f</update_guid>
+        <update_guid_history>f87bb8019a6a76109314d2245676d30f:1140128356</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">97bb3441c36a7610c5bedaec0501313f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-18 06:33:03</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>2166d6466d3a41a886dcae23593b3981</sys_id>
+        <sys_metadata>307bb801c36a7610c5bedaec0501310d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_307bb801c36a7610c5bedaec0501310d</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_307bb801c36a7610c5bedaec0501310d">3c7bb801c36a7610c5bedaec05013110</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-18 06:33:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

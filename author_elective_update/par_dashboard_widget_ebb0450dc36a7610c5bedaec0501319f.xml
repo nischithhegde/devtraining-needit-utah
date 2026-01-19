@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">612544b79f2e18af33db2d7b66bc803d</canvas>
+        <component display_value="Column">2bd5dc19a7ad083941b7c992a966dd78</component>
+        <component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","showDataLabels":false,"disableTooltip":false,"showClosestSeriesOnHover":false,"showXGrid":false,"showDateRangeByDefault":false,"showYGrid":true,"hideYAxis0":false,"yAxis0Position":"left","hideYAxis1":false,"yAxis1Position":"right","hideYAxis2":false,"yAxis2Position":"right","hideYAxis3":false,"yAxis3Position":"right","hideYAxis4":false,"yAxis4Position":"right","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"yAxisStyle":"default","lineStrokeWidth":"2","chartVariation":"stacked","extensionType":"bar","showContinuousLine":true,"showMarkers":false,"colorConfig":{"type":"default"},"newReporting":false,"enableAddZerosAtApi":true,"additionalGroupByConfig":[{"id":"074d90bfc3163210c5bedaec0501312f","label":"Request type","metricId":"YVc1a2FXTmhkRzl5WlRZNE9XUTROemRqTXpFMk16SXhNR00xWW1Wa1lXVmpNRFV3TVRNeE5tSXhOelk0TnpFNU1qRTFOVFkwMTc2ODcxOTIxNzg1OA==","metricLabel":"NeedIt : ActiveWeekly"},{"id":"073fd0b3c3563210c5bedaec05013121","label":"Requested for","metricId":"YVc1a2FXTmhkRzl5WlRZNE9XUTROemRqTXpFMk16SXhNR00xWW1Wa1lXVmpNRFV3TVRNeE5tSXhOelk0TnpFNU1qRTFOVFkwMTc2ODcxOTIxNzg1OA==","metricLabel":"NeedIt : ActiveWeekly"}],"dataSources":[{"allowRealTime":true,"allowTotalValue":true,"indicatorType":"1","isScriptedIndicator":false,"allowMultiElementsAggregation":false,"aggregateType":1,"label":"NeedIt : ActiveWeekly","sourceType":"indicator","uuid":{"indicator":"e689d877c3163210c5bedaec0501316b","breakdowns":[]},"preferredVisualizations":["18ac962264404bcc0039359d184b15f3"],"id":"aW5kaWNhdG9yZTY4OWQ4NzdjMzE2MzIxMGM1YmVkYWVjMDUwMTMxNmIxNzY4NzE5MjE1NTY0","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":false,"contextMenuActions":[],"headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":true,"metrics":[{"dataSource":"aW5kaWNhdG9yZTY4OWQ4NzdjMzE2MzIxMGM1YmVkYWVjMDUwMTMxNmIxNzY4NzE5MjE1NTY0","id":"YVc1a2FXTmhkRzl5WlRZNE9XUTROemRqTXpFMk16SXhNR00xWW1Wa1lXVmpNRFV3TVRNeE5tSXhOelk0TnpFNU1qRTFOVFkwMTc2ODcxOTIxNzg1OA==","aggregateIndicator":"","frequency":20,"numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"groupBy":[{"dataSource":"aW5kaWNhdG9yZTY4OWQ4NzdjMzE2MzIxMGM1YmVkYWVjMDUwMTMxNmIxNzY4NzE5MjE1NTY0","groupByField":"074d90bfc3163210c5bedaec0501312f","metric":"YVc1a2FXTmhkRzl5WlRZNE9XUTROemRqTXpFMk16SXhNR00xWW1Wa1lXVmpNRFV3TVRNeE5tSXhOelk0TnpFNU1qRTFOVFkwMTc2ODcxOTIxNzg1OA==","isRange":false,"isChoice":true,"isPaBucket":false}],"maxNumberOfGroups":"ALL","numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"hideZeroValues":false,"disableRanges":false}],"filterPerMetric":[],"sortBy":"value","sortByOrder":"desc","trendBy":{"trendByFrequency":"date","trendByFields":[{"field":"anything","metric":"YVc1a2FXTmhkRzl5WlRZNE9XUTROemRqTXpFMk16SXhNR00xWW1Wa1lXVmpNRFV3TVRNeE5tSXhOelk0TnpFNU1qRTFOVFkwMTc2ODcxOTIxNzg1OA=="}]},"showChange":null,"showChangePercentage":null,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":null,"showMetricLabel":null,"showThreshold":false,"showComment":false,"showTotalValue":null,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":null,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"componentId":"ldcerwrg","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"hideDevSettings":false,"configPropModifiers":{},"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":"latest","showChangeFrom":null,"startTime":null,"endTime":null,"useCurrentDateForEnd":false,"period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"showFilterAsSeparateSeries":false,"userInfo":"@context.session.user","sharedContext":{},"colors":{}}</component_props>
+        <h>15</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-18 06:54:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ebb0450dc36a7610c5bedaec0501319f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_widget_ebb0450dc36a7610c5bedaec0501319f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-18 06:57:33</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>34</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4b51414c3b3342d4a36804e0b5e45a90</instance_id>
+        <instance_name>dev282179</instance_name>
+        <name>par_dashboard_widget_ebb0450dc36a7610c5bedaec0501319f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">612544b79f2e18af33db2d7b66bc803d</canvas><component display_value="Column">2bd5dc19a7ad083941b7c992a966dd78</component><component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","showDataLabels":false,"disableTooltip":false,"showClosestSeriesOnHover":false,"showXGrid":false,"showDateRangeByDefault":false,"showYGrid":true,"hideYAxis0":false,"yAxis0Position":"left","hideYAxis1":false,"yAxis1Position":"right","hideYAxis2":false,"yAxis2Position":"right","hideYAxis3":false,"yAxis3Position":"right","hideYAxis4":false,"yAxis4Position":"right","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"yAxisStyle":"default","lineStrokeWidth":"2","chartVariation":"stacked","extensionType":"bar","showContinuousLine":true,"showMarkers":false,"colorConfig":{"type":"default"},"newReporting":false,"enableAddZerosAtApi":true,"additionalGroupByConfig":[{"id":"074d90bfc3163210c5bedaec0501312f","label":"Request type","metricId":"YVc1a2FXTmhkRzl5WlRZNE9XUTROemRqTXpFMk16SXhNR00xWW1Wa1lXVmpNRFV3TVRNeE5tSXhOelk0TnpFNU1qRTFOVFkwMTc2ODcxOTIxNzg1OA==","metricLabel":"NeedIt : ActiveWeekly"},{"id":"073fd0b3c3563210c5bedaec05013121","label":"Requested for","metricId":"YVc1a2FXTmhkRzl5WlRZNE9XUTROemRqTXpFMk16SXhNR00xWW1Wa1lXVmpNRFV3TVRNeE5tSXhOelk0TnpFNU1qRTFOVFkwMTc2ODcxOTIxNzg1OA==","metricLabel":"NeedIt : ActiveWeekly"}],"dataSources":[{"allowRealTime":true,"allowTotalValue":true,"indicatorType":"1","isScriptedIndicator":false,"allowMultiElementsAggregation":false,"aggregateType":1,"label":"NeedIt : ActiveWeekly","sourceType":"indicator","uuid":{"indicator":"e689d877c3163210c5bedaec0501316b","breakdowns":[]},"preferredVisualizations":["18ac962264404bcc0039359d184b15f3"],"id":"aW5kaWNhdG9yZTY4OWQ4NzdjMzE2MzIxMGM1YmVkYWVjMDUwMTMxNmIxNzY4NzE5MjE1NTY0","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":false,"contextMenuActions":[],"headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":true,"metrics":[{"dataSource":"aW5kaWNhdG9yZTY4OWQ4NzdjMzE2MzIxMGM1YmVkYWVjMDUwMTMxNmIxNzY4NzE5MjE1NTY0","id":"YVc1a2FXTmhkRzl5WlRZNE9XUTROemRqTXpFMk16SXhNR00xWW1Wa1lXVmpNRFV3TVRNeE5tSXhOelk0TnpFNU1qRTFOVFkwMTc2ODcxOTIxNzg1OA==","aggregateIndicator":"","frequency":20,"numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"groupBy":[{"dataSource":"aW5kaWNhdG9yZTY4OWQ4NzdjMzE2MzIxMGM1YmVkYWVjMDUwMTMxNmIxNzY4NzE5MjE1NTY0","groupByField":"074d90bfc3163210c5bedaec0501312f","metric":"YVc1a2FXTmhkRzl5WlRZNE9XUTROemRqTXpFMk16SXhNR00xWW1Wa1lXVmpNRFV3TVRNeE5tSXhOelk0TnpFNU1qRTFOVFkwMTc2ODcxOTIxNzg1OA==","isRange":false,"isChoice":true,"isPaBucket":false}],"maxNumberOfGroups":"ALL","numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"hideZeroValues":false,"disableRanges":false}],"filterPerMetric":[],"sortBy":"value","sortByOrder":"desc","trendBy":{"trendByFrequency":"date","trendByFields":[{"field":"anything","metric":"YVc1a2FXTmhkRzl5WlRZNE9XUTROemRqTXpFMk16SXhNR00xWW1Wa1lXVmpNRFV3TVRNeE5tSXhOelk0TnpFNU1qRTFOVFkwMTc2ODcxOTIxNzg1OA=="}]},"showChange":null,"showChangePercentage":null,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":null,"showMetricLabel":null,"showThreshold":false,"showComment":false,"showTotalValue":null,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":null,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"componentId":"ldcerwrg","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"hideDevSettings":false,"configPropModifiers":{},"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":"latest","showChangeFrom":null,"startTime":null,"endTime":null,"useCurrentDateForEnd":false,"period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"showFilterAsSeparateSeries":false,"userInfo":"@context.session.user","sharedContext":{},"colors":{}}</component_props><h>15</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-01-18 06:54:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ebb0450dc36a7610c5bedaec0501319f</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>par_dashboard_widget_ebb0450dc36a7610c5bedaec0501319f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-01-18 06:57:33</sys_updated_on><visualization/><w>48</w><widget_props/><x>0</x><y>34</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>467150880</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>dc0f9b92c39e7210c5bedaec050131bf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-18 06:57:33</sys_created_on>
+        <sys_id>d651494dc36a7610c5bedaec050131e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19bcfe50cda0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-18 06:57:33</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>1651494d1a6a761091579339009eede7</update_guid>
+        <update_guid_history>1651494d1a6a761091579339009eede7:467150880,afb0450d986a7610352a867be9fd90a1:1559960247</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">6cc34d81c3aa7610c5bedaec0501312e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-18 07:08:05</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>17fbbad838784394840f5344352ae1d1</sys_id>
+        <sys_metadata>ebb0450dc36a7610c5bedaec0501319f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_ebb0450dc36a7610c5bedaec0501319f</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_ebb0450dc36a7610c5bedaec0501319f">d651494dc36a7610c5bedaec050131e8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-18 07:08:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
